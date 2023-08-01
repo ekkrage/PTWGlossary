@@ -1,0 +1,72 @@
+Acronym,Definition,Information,Course.Week,Definition-Source-Title,Definition-Source-URL
+A11Y,Accessibility,A community-driven effort to make digital accessibility easier. The acronym is an A numeronym is a number-based word with 11 for the number of letters between the letters a and y.,PTW 320.3,"What Does a11y Mean? | California State University, Northridge",https://www.csun.edu/it/news/what-does-a11y-mean#
+ADA,Americans with Disabilities Act,,PTW 320.3,"Stanford, “History of Accessible Technology”",https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/firstwave.html
+AI,Artificial intelligence,,PTW 320.3,Microsoft Inclusive Design,https://inclusive.microsoft.design/
+ARM,Accessibility rating matrix,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+CPTC,Certified Professional Technical Communicator,Certification developed by APMG on behalf of the STC.,PTW 320.1,Foundation Level Certification (LEVEL I) - STC,https://www.stc.org/certification/foundation-certification/
+CRPD,Convention on the Rights of Persons with Disabilities from the UN,Convention on the Rights of Persons with Disabilities from the UN,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+CSS,Cascading style sheets,CSS is the language we use to style a Web page.,PTW 320.1,CSS Introduction - W3Schools,https://www.stc.org/certification/foundation-certification/
+CSV,Comma-separated values,Text file that uses a delimiter to separate values.,PTW 320.1,,
+CX,Customer experience,,PTW 320.2,"Cate McGehee, “Content Strategy: Crafting the User Experience” course, Winter 2020",
+DE,Two character code designating the German language for ISO 639-1,,PTW 320.3,,
+Dev,Software developer or development,,PTW 320.6,,
+DITA,Darwin information typing architecture,"XML-based, end-to-end architecture for authoring, producing, and delivering readable information as discrete, typed topics.",PTW 320.1,OASIS Darwin Information Typing Architecture (DITA) TC FAQ,https://www.oasis-open.org/committees/dita/faq.php
+DM,Disability management,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+EN,Two character code designating the English language for ISO 639-1,,PTW 320.3,,
+en_GB,Five character code designating the English language code for IZO-639-1,Code combines the two character language code and the two character country code British English (United Kingdom) separated by an underscore (_),PTW 320.3,,
+EOD,End of day,,PTW 320.4,,
+ES,Two character code designating the Spanish language for ISO 639-1,,PTW 320.3,,
+"H1, H2, H3...","Heading 1, heading 2...",HTML meta tags to designate and mark up text as headings. The number denotes the importance; the higher the number the lower the hierarchy.,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist",https://proximacy.sg/what-are-h1-h2-h3-meta-tags/
+HH,Format for hours as two-digits,"Usually combined with ""MM"" such as HH:MM (example: 03:30)",PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
+HTML,Hypertext markup language,HTML is the standard markup language for creating Web pages.,PTW 320.1,HTML Introduction - W3Schools,https://www.w3schools.com/html/html_intro.asp
+HW,Homework,Course vernacular.,PTW 320.1,,
+I17N,Internationalization,Designing a product to enable localization.,PTW 320.3,,
+IA,Instructional Assistant,,PTW 320.1,,
+IAAS,Infrastructure as a service,"On-demand access to cloud-hosted physical and virtual servers, storage and networking - the backend IT infrastructure for running applications and workloads in the cloud.",PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM,https://www.ibm.com/topics/iaas-paas-saas
+ICT,Information and communications technology,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+ISO,International Organization for Standardization,,PTW 320.3,,
+IT,Information technology,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+IXD,Interaction design,,PTW 320.3,,
+JA,Two character code designating the Japanese language for ISO 639-1,,PTW 320.3,,
+JSTOR,Journal storage,Digital library for the intellectually curious,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+JTBD,Jobs-to-be-done,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?""",https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb
+L10N,Localization,Adapting a product for a specific audience or location.,PTW 320.3,,
+LTR,Left-to-right,Languages are written and read from left to right.,PTW 320.3,"IXD@Pratt, “UX/UI Design for globalization – more than just translation”",https://ixd.prattsi.org/2018/12/ux-ui-design-for-globalization-more-than-just-translation/
+MB,Megabyte,"Unit used in measuring the amount of information a computer can store, with the value 1,048,576 bytes.",PTW 320.3,,
+MM,Format for minutes as two-digits,"Usually combined with ""HH"" such as HH:MM (example: 03:30)",PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
+ODI,Outcome-driven innovation,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?""",https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb
+OS,Operating system,,PTW 320.1,,
+PAAS,Platform as a service,"On-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.",PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM,https://www.ibm.com/topics/iaas-paas-saas
+PC,Personal computer,,PTW 320.6,,
+PDF,Portable document format,"File format created by Adobe to present and exchange documents regardless of the software, hardware, or operating systems.",PTW 320.1,What is a PDF? Portable Document Format | Adobe Acrobat,https://www.adobe.com/acrobat/about-adobe-pdf.html
+POUR,"Perceivable, operable, understandable, and robust",Four principles of accessibility,PTW 320.3,,
+PP,Portfolio project,Course vernacular.,PTW 320.1,,
+PTW,Professional technical writing,"Nine-month certificate program on offer through the University of Washingtonâ€™s UW Professional & Continuing Education (UWCPE, UWCÂ²).",PTW 320.1,PTW Certificate in PTW at UWCPE,https://www.pce.uw.edu/certificates/professional-technical-writing
+PW,Plain Writing or Practical writing,,PTW 320.1,,
+QA,Quality assurance,,PTW 320.6,,
+RFP,Request for proposal,,PTW 320.1,,
+ROI,Return on investment,,PTW 320.1,"McGovern, ""What Really Matters: Focusing on Top Tasks""",https://articles.centercentre.com/focusing_top_tasks/
+RTL,Right-to-left,Languages are written and read from right to left.,PTW 320.3,"IXD@Pratt, “UX/UI Design for globalization – more than just translation”",https://ixd.prattsi.org/2018/12/ux-ui-design-for-globalization-more-than-just-translation/
+SAAS,Software as a service,"On-demand access to ready-to-use, cloud-hosted application software.",PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM,https://www.ibm.com/topics/iaas-paas-saas
+SAMI,Synchronized Accessible Media Exchange,,PTW 320.3,"Stanford, “History of Accessible Technology”",https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/firstwave.html
+SEM,Search engine marketing,The practice of marketing a business using paid advertisements appearing on SERPs.,PTW 320.6,,
+SEO,Search engine optimization,,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist",https://proximacy.sg/what-are-h1-h2-h3-meta-tags/
+SERP,Search engine results page,,PTW 320.6,,
+SME,Subject matter expert,,PTW 320.4,,
+SSML,Speech Synthesis Markup Language,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+STC,Society for Technical Communication,Professional association dedicated to the advancement of the field of technical communication.,PTW 320.1,About STC,https://www.stc.org/about-stc/
+TAMI,Test accessibility and modification inventory,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+TBA,To be announced,,PTW 320.1,,
+TC,Technical communication or communicator,,PTW 320.1,,
+TDD,Telecommunications device for the deaf,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+TL;DR,Too long didn't read,,PTW 320.2,TL;DR | Mailchimp Content Style Guide,https://styleguide.mailchimp.com/tldr/
+TTY,"Teletypewriters, sometimes shortened to ""teletype""",,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+UI,User interface,,PTW 320.6,,
+UN,United Nations,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+UX,User experience,,PTW 320.1,,
+W3C,World Wide Web Consortium,"Public-interest non-profit organization that develops standards and guidelines to help everyone build a web based on the principles of accessibility, internationalization, privacy and security.",PTW 320.3,W3C,https://www.w3.org/
+WAI,Web Accessibility Initiative,Part of the W3C,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
+WCAG,Web Content Accessibility Guidelines,"International standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.",PTW 320.3,WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C,https://www.w3.org/WAI/standards-guidelines/wcag/
+WIFM,What's in it for me?,,PTW 320.1,,
+XHTML,Extensible HyperText Markup Language,"XHTML is a stricter, more XML-based version of HTML. XHTML is HTML defined as an XML application.",PTW 320.3,HTML Versus XHTML - W3Schools,https://www.w3schools.com/html/html_xhtml.asp
+XML,Extensible markup language,XML is a software- and hardware-independent tool for storing and transporting data.,PTW 320.1,XML Introduction - W3Schools,https://www.w3schools.com/xml/xml_whatis.asp
